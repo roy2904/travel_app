@@ -171,7 +171,7 @@ class _HomePageState extends State<HomePage> {
                               title: 'Khlong Sok'),
                           makeItem(
                               image: 'assets/images/vietnam.jpg',
-                              title: 'Vietnam'),
+                              title: 'Vietnamese'),
                           makeItem(
                               image: 'assets/images/thailand2.jpg', title: 'Thailand'),
                         ],
